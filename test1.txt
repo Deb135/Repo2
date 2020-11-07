@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is BC91-8268
+
+ Directory of C:\Users\Admin\Desktop\MyProject
+
+07-11-2020  18:14    <DIR>          .
+07-11-2020  18:14    <DIR>          ..
+07-11-2020  18:14                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  61,872,279,552 bytes free
